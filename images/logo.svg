@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="29px" viewBox="0 0 23 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.886417245" y="0.193300097" width="22.811309" height="15.9669764" rx="1.16999996"></rect>
+        <rect id="path-3" x="2.68062176" y="2.88152723" width="22.8301875" height="15.9834375" rx="1.152"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22.8301875" height="15.9834375" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-255.000000, -7.000000)">
+            <g id="Group-2" transform="translate(254.000000, 7.000000)">
+                <g id="Group-3-Copy" transform="translate(0.230755, 0.550000)">
+                    <path d="M3.22117091,2.37299819 C3.22117091,4.78742054 6.5371763,7.16311507 7.29886199,7.56412284 C7.97201401,7.18945257 11.3944377,4.69799749 11.3944377,2.37299819 C11.3944377,1.19261393 10.4286687,0.226844995 9.24828448,0.226844995 C8.3898232,0.226844995 7.60068422,0.727614074 7.26087663,1.46088308 C6.92106904,0.727614074 6.22578539,0.226844995 5.36732411,0.226844995 C4.16905524,0.226844995 3.22117091,1.19261393 3.22117091,2.37299819 Z" id="Shape-Copy-21" fill="#FFFFFF"></path>
+                    <g id="Group" transform="translate(0.000000, 11.700000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <g mask="url(#mask-2)">
+                            <g transform="translate(-1.800000, -2.700000)">
+                                <rect id="Rectangle-11-Copy" stroke="none" x="3.14074676" y="2.88152723" width="22.0058438" height="15.9834375" rx="1.152"></rect>
+                                <path d="M0.784996756,14.5604335 L16.3369968,1.88843348" id="Line" stroke="#89C4CC" stroke-width="1.152" stroke-linecap="square"></path>
+                                <path d="M2.96609051,18.0884335 L22.8693093,2.18177723" id="Line-Copy-44" stroke="#89C4CC" stroke-width="1.152" stroke-linecap="square"></path>
+                                <path d="M6.47159051,20.697871 L26.3748093,4.79121473" id="Line-Copy-45" stroke="#89C4CC" stroke-width="1.152" stroke-linecap="square"></path>
+                                <path d="M5.79602801,0.947370976 L16.3721836,12.2201213" id="Line-Copy-46" stroke="#89C4CC" stroke-width="1.152" stroke-linecap="square"></path>
+                                <path d="M11.6027155,0.856808476 L19.9893094,9.66977733" id="Line-Copy-48" stroke="#89C4CC" stroke-width="1.152" stroke-linecap="square"></path>
+                                <path d="M15.0612468,14.4465272 L20.5653094,20.6137773" id="Line-Copy-49" stroke="#89C4CC" stroke-width="1.152" stroke-linecap="square"></path>
+                                <polygon id="Path-25" stroke="none" points="10.8541686 7.13149598 12.8921061 9.34141785 3.37235613 16.9638554 3.54293426 13.1149491"></polygon>
+                                <polygon id="Path-27" stroke="none" points="15.5998405 14.1642929 24.9670124 6.7058241 24.7614186 18.0977147 19.1572311 18.145246"></polygon>
+                                <use id="Rectangle-11" stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="2.16" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M7.24530926,9.16099598 L7.24530926,21.8339364" id="Line" stroke="#FFFFFF" stroke-width="1.152" stroke-linecap="round" stroke-dasharray="1.728000068664551,2.880000042915345"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
