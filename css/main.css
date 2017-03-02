@@ -1,0 +1,33 @@
+#logo {
+  width: 40px;
+  padding: 16px 20px 0px 0px; }
+
+.navbar {
+  background-color: #00658F; }
+  .navbar h3 {
+    padding-top: 20px;
+    color: white; }
+
+#tagline_home {
+  margin-bottom: 50px;
+  background-color: #00C499;
+  box-shadow: 0px 2px 10px #777;
+  background-image: url("../images/texture_web.svg"); }
+  #tagline_home h4 {
+    padding: 40px 0px 20px 0px;
+    color: white; }
+
+#tagline_principles_home {
+  margin: 50px 0px 50px 0px;
+  background-color: #008091;
+  box-shadow: 0px 2px 10px #777;
+  background-image: url("../images/texture_web.svg"); }
+  #tagline_principles_home h4 {
+    padding: 40px 0px 20px 0px;
+    color: white; }
+
+.principles_left_align {
+  padding-left: 12px; }
+
+li:before {
+  font-size: 50px; }
