@@ -37,9 +37,11 @@ a {
 .header_column {
   display: table-cell; }
 
-.header_links h5 {
-  margin-left: 20px;
-  color: white; }
+.header_links {
+  display: none; }
+  .header_links h5 {
+    margin-left: 20px;
+    color: white; }
 
 #hamburger {
   padding: 0;
