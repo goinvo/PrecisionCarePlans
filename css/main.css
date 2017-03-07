@@ -45,10 +45,13 @@ a {
   padding: 0;
   border: none;
   font-size: 25px;
-  color: white; }
+  color: white;
+  display: none; }
 
-#dropdown_menu p {
-  color: white; }
+#dropdown_menu {
+  display: none; }
+  #dropdown_menu p {
+    color: white; }
 
 .principles_left_align {
   padding-left: 14px; }
