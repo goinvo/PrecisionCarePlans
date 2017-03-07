@@ -1,10 +1,13 @@
+a {
+  text-decoration: none; }
+
 #logo {
-  width: 40px;
-  padding: 16px 20px 0px 0px; }
+  width: 70px;
+  padding: 16px 10px 0px 0px; }
 
 .navbar {
   background-color: #00658F; }
-  .navbar h3 {
+  .navbar h4 {
     padding-top: 20px;
     color: white; }
 
@@ -26,8 +29,46 @@
     padding: 40px 0px 20px 0px;
     color: white; }
 
+.header_column {
+  display: table;
+  width: 100%;
+  table-layout: fixed; }
+
+.header_column {
+  display: table-cell; }
+
+.header_links h5 {
+  margin-left: 20px;
+  color: white; }
+
+#hamburger {
+  padding: 0;
+  border: none;
+  font-size: 25px;
+  color: white; }
+
+#dropdown_menu p {
+  color: white; }
+
 .principles_left_align {
   padding-left: 14px; }
 
 li:before {
   font-size: 50px; }
+
+.image_center {
+  text-align: center; }
+  .image_center img {
+    margin: 50px 0px 5px 0px; }
+  .image_center p {
+    width: 330px;
+    margin: auto; }
+
+video {
+  margin: 40px 0px 10px 0px;
+  box-shadow: 1px 4px 13px #bbb; }
+
+.authors {
+  text-align: center;
+  opacity: 0.4;
+  margin: 0; }
